@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AccomLink" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/accom_mist</item>
+        <item name="android:statusBarColor">@color/accom_teal_dark</item>
+        <item name="android:navigationBarColor">@color/accom_mist</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/accom_saffron</item>
+    </style>
+</resources>
